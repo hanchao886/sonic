@@ -1,3 +1,6 @@
+//go:build amd64
+// +build amd64
+
 /*
  * Copyright 2022 ByteDance Inc.
  *
